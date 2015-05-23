@@ -20,6 +20,6 @@ PART 4: Using the data set obtained in Part 3, this part creates an independent 
 PART 5: Writes to file "Tidy.txt" the tidy data obtained in Part 4. It also reads it and shows it to make sure it is OK  
   
   
-##NOTE: In order to view correctly the "Tidy.txt" file you should save it in your working directory and use (in RStudio) the commands   
+##NOTE: In order to view correctly the "Tidy.txt" file submitted for the project, you should save it in your working directory and use (in RStudio) the commands   
 data <- read.table("Tidy.txt", header = TRUE)  
 View(data)
