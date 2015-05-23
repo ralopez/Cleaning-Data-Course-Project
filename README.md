@@ -2,7 +2,7 @@
 The unique script run_analysis.R does everything the course project asked for.
 It is divided, sequentially, into 5 parts each of which does the following:
 
-PART 1: Merges the training and the test sets to create one data set & Appropriately labels the data set with descriptive variable names
+PART 1: Merges the training and the test sets to create one data set & Appropriately labels the data set with descriptive variable names.
 It does it in 3 steps  
 1.1 Reads all the relevant files (they should be located in the working directory) and stores them in data frames     
 1.2 Labels the data frames with descriptive variable names  
