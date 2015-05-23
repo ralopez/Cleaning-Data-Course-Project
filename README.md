@@ -3,15 +3,15 @@ The unique script run_analysis.R does everything the course project asked for.
 It is divided, sequentially, into 5 parts each of which does the following:
 
 PART 1: Merges the training and the test sets to create one data set & Appropriately labels the data set with descriptive variable names
-It does it in 3 steps
-1.1 Reads all the relevant files (they should be located in the working directory) and stores them in data frames   
-1.2 Labels the data frames with descriptive variable names
-1.3 Merges the data frames into one data set 
+It does it in 3 steps  
+1.1 Reads all the relevant files (they should be located in the working directory) and stores them in data frames     
+1.2 Labels the data frames with descriptive variable names  
+1.3 Merges the data frames into one data set   
 
 PART 2: For the data set created in Part 1, this part extracts only the measurements on the mean and standard deviation for each measurement.
-It does it in 2 steps
-2.1 Finds columns that contain "mean()" and "std()"
-2.2 Subsets data to selected columns
+It does it in 2 steps  
+2.1 Finds columns that contain "mean()" and "std()"  
+2.2 Subsets data to selected columns  
 
 PART 3: Uses descriptive activity names to name the activities in the data set obtained in Part 2
   
