@@ -13,17 +13,20 @@ tGravityAcc-XYZ
 tBodyAccJerk-XYZ  
 tBodyGyro-XYZ  
 tBodyGyroJerk-XYZ  
-fBodyAcc-XYZ  
-fBodyAccJerk-XYZ  
-fBodyGyro-XYZ  
 tBodyAccMag  
 tGravityAccMag  
 tBodyAccJerkMag  
 tBodyGyroMag  
 tBodyGyroJerkMag  
+fBodyAcc-XYZ  
+fBodyAccJerk-XYZ  
+fBodyGyro-XYZ  
 fBodyAccMag  
 fBodyAccJerkMag  
 fBodyGyroMag  
 fBodyGyroJerkMag  
+
+This data set was elaborated by Rafael López for the Getting and Cleaning Data Course Project
+May 24, 2015
 
 
