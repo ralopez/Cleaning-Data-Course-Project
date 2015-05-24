@@ -26,7 +26,7 @@ fBodyAccJerkMag
 fBodyGyroMag  
 fBodyGyroJerkMag  
 
-This data set was elaborated by Rafael López for the Getting and Cleaning Data Course Project
+This data set was elaborated by Rafael López for the Getting and Cleaning Data Course Project.  
 May 24, 2015
 
 
